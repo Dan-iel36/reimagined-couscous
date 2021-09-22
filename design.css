@@ -1,0 +1,42 @@
+html {
+    font-family: FreeMono, Chandas, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    /*width: 80%;*/
+    justify-content: space-around;
+
+
+
+}
+
+body {
+    width: 500px;
+    height: 600px;
+    border: #696 solid 20px;
+    justify-content: space-around;
+}
+
+#personalInfo {
+    background-color: rgba(32, 60, 40, 10);
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px -10px rgba(0,0,0,0.75);
+    color: #B3B8CD;
+    padding-top: 30px;
+    position: relative;
+    width: 350px;
+    max-width: 100%;
+    text-align: center;
+}
+
+ .pro {
+    color: #231E39;
+    background-color: #FEBB0B;
+    border: 8px red solid;
+    border-radius: 300px;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 13px 17px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
